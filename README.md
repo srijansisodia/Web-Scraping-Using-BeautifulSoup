@@ -18,3 +18,7 @@ pip install beautifulsoup4 requests
 
 ## Getting Started
 
+To use this script, follow these steps:
+
+Clone or download the project to your local machine.
+Open a terminal or command prompt and navigate to the project directory.
