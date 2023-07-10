@@ -12,7 +12,9 @@ beautifulsoup4
 requests
 You can install these packages by running the following command:
 
-```python pip install beautifulsoup4 requests ```
+```python 
+pip install beautifulsoup4 requests 
+```
 
 ## Getting Started
 
