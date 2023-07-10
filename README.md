@@ -4,3 +4,15 @@ This project is a Python script that demonstrates web scraping using the Beautif
 
 ## Prerequisites
 
+Before running the script, ensure that you have the following:
+
+Python 3.x installed on your system
+Required Python packages:
+beautifulsoup4
+requests
+You can install these packages by running the following command:
+
+```python pip install beautifulsoup4 requests ```
+
+## Getting Started
+
